@@ -4,6 +4,7 @@ The Course Project of  CE7454
 #### Set Up Environment
 0. conda create -n course pip python=2.7
 1. conda install pytorch=0.4 torchvision cuda90 -c pytorch 
+2. bash install_package.sh
 
 #### Download Dataset: Quick Draw
 0. pip install gsutil
