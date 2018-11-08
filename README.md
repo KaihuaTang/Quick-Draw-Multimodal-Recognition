@@ -26,15 +26,13 @@ SEQUENCE_MODE = True
 
 assert IMAGE_MODE + SEQUENCE_MODE == 1
 
-####(1) 28*28 Image Model
-
+#### (1) 28*28 Image Model
 Under image_model.ipynb
 
-####(2) Length*(x,y) Stroke Sequence Model 
-
+#### (2) Length*(x,y) Stroke Sequence Model 
 Under sequence_model.ipynb
 
-#### Start Training
+## Start Training
 Run train.ipynb
 
 
