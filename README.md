@@ -16,8 +16,18 @@ The Course Project of  CE7454
 #### Prepare Dataset
 1. run preprocessing.ipynb
 
-#### Classification Model
-Under model.ipynb
+## Two Types of Model
+Change Model Type from config.ipynb
+e.g.
+IMAGE_MODE = False
+SEQUENCE_MODE = True
+assert IMAGE_MODE + SEQUENCE_MODE == 1
+#### 28*28 Image Model
+Under image_model.ipynb
+#### Length*(x,y) Stroke Sequence Model 
+Under sequence_model.ipynb
 
 #### Start Training
 Run train.ipynb
+
+
