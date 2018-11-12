@@ -4,5 +4,6 @@ conda install jupyter
 conda install tqdm
 conda install h5py
 conda install tensorflow
+conda install matplotlib
 pip install ndjson
 pip install tensorboardX
