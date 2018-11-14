@@ -1,4 +1,4 @@
-# Quick-Draw---Recognition-and-Generation
+# Quick-Draw-Multimodal-Recognition
 The Course Project of  CE7454
 
 #### Set Up Environment
